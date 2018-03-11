@@ -1,6 +1,6 @@
 FROM debian:jessie
 
-MAINTAINER Steffen Sperling <steffen.sperling@ventum.com>
+MAINTAINER José Netto <jnetto@mineiro.org>
 
 ENV TOMCAT_VERSION 8.5.9
 ENV IIQ_VERSION 7.1
